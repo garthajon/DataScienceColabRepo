@@ -1,0 +1,18 @@
+https://medcell.org/histology/immune_system_lab/metastatic_carcinoma_lymph_node.php
+https://medcell.org/histology/immune_system_lab/congestive_splenomegaly.php
+
+https://medcell.org/histology/immune_system_lab.php#pathology
+
+Histology Definition
+Histology is the study of the microscopic anatomy (microanatomy) of cells and tissues. 
+Every cell of tissue type is unique, based on the many functions an organism carries out.
+ Histology uses advanced imaging techniques to analyze and identify the tissues and structures present. 
+Both light microscopy and specialized systems such as electron microscopy are used to visualize the tiny structures 
+present in specially prepared tissue samples. The histology of different tissues can be used to identify unknown tissues, 
+provide clues to the function of tissue or cells, or even identify disease in the cells of an organism.
+
+Histopathology is the microscopic examination of tissues to diagnose and manage diseases, especially cancer.
+
+Histopathology is the branch of histology that includes the microscopic identification and study of diseased tissue.
+ It is an important part of anatomical pathology and surgical pathology, as accurate diagnosis of cancer and other diseases
+ often requires histopathological examination of tissue samples.
