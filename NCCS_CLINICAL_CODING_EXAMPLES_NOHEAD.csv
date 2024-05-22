@@ -2,8 +2,7 @@
 2,"Patient admitted with slurred speech, right sided weakness and confusion. Elderly care 
 consultant documents CVA in the medical record and sends patient for MRI scan of the 
 brain. Diagnosis documented on the MRI report by the consultant radiologist states Middle 
-cerebral artery subarachnoid haemorrhage",I60.1,"
-Subarachnoid haemorrhage from middle cerebral artery",,,ICD10 5TH EDITION MORBIDITY 2024 V10.2,39,
+cerebral artery subarachnoid haemorrhage",I60.1,"Subarachnoid haemorrhage from middle cerebral artery",,,ICD10 5TH EDITION MORBIDITY 2024 V10.2,39,
 3,"Patient admitted for treatment of a diabetic cataract, the patient has type 1 diabetes mellitus",H28.0,Diabetic cataract (E10E14 with common fourth character .3) ,E10.3,"Type 1 diabetes mellitus, with ophthalmic complications ",ICD10 5TH EDITION MORBIDITY 2024 V10.3,41,DAGGER ASTERISK EXAMPLE
 4,Retrobulbar neuritis in multiple sclerosis ,G35.X,Multiple sclerosis ,H48.1,Retrobulbar neuritis in diseases classified elsewhere,ICD10 5TH EDITION MORBIDITY 2024 V10.4,42,DAGGER ASTERISK EXAMPLE
 5,"Urinary sepsis and biliary sepsis (responsible consultant confirms UTI and cholangitis without 
