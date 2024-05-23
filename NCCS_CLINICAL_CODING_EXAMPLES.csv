@@ -3,9 +3,8 @@ ROWNO,NCCS_CLINICAL_TEXT,NCCS_PRIM_DIAG,NCCS_PRIM_DIAG_DESC,NCCS_SEC_DIAG,NCCS_S
 2,"Patient admitted with slurred speech right sided weakness and confusion Elderly care 
 consultant documents CVA in the medical record and sends patient for MRI scan of the 
 brain Diagnosis documented on the MRI report by the consultant radiologist states: Middle 
-cerebral artery subarachnoid haemorrhage",I601,"
-Subarachnoid haemorrhage from middle cerebral artery",,,ICD10 5TH EDITION MORBIDITY 2024 V102,39,
-3,Patient admitted for treatment of a diabetic cataract the patient has type 1 diabetes mellitus,H280,Diabetic cataract (E10–E14 with common fourth character 3) ,E103,Type 1 diabetes mellitus with ophthalmic complications ,ICD10 5TH EDITION MORBIDITY 2024 V103,41,DAGGER ASTERISK EXAMPLE
+cerebral artery subarachnoid haemorrhage",I601,"Subarachnoid haemorrhage from middle cerebral artery",,,ICD10 5TH EDITION MORBIDITY 2024 V102,39,
+3,Patient admitted for treatment of a diabetic cataract the patient has type 1 diabetes mellitus,H280,Diabetic cataract (E10 E14 with common fourth character 3) ,E103,Type 1 diabetes mellitus with ophthalmic complications ,ICD10 5TH EDITION MORBIDITY 2024 V103,41,DAGGER ASTERISK EXAMPLE
 4,Retrobulbar neuritis in multiple sclerosis ,G35X,Multiple sclerosis ,H481,Retrobulbar neuritis in diseases classified elsewhere,ICD10 5TH EDITION MORBIDITY 2024 V104,42,DAGGER ASTERISK EXAMPLE
 5,"Urinary sepsis and biliary sepsis (responsible consultant confirms UTI and cholangitis without 
 sepsis) ",N390 ,Urinary tract infection site not specified ,K830 ,Cholangitis ,ICD10 5TH EDITION MORBIDITY 2024 V105,53,
