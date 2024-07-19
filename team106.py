@@ -94,7 +94,7 @@ if st.button("Run Query"):
 if __name__ == '__main__':
     st._is_running_with_streamlit = True
     from streamlit.cli import main
-    main(prog_name='streamlit', args=['run', 'team106.py', '--server.port=8502'])
+    main(prog_name='streamlit', args=['run', 'team106.py', '--server.port=8080'])
 
 
 
