@@ -1,2 +1,5 @@
 streamlit
 langchain==0.0.332
+google.cloud
+pandas
+vertexai
