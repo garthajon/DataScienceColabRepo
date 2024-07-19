@@ -16,8 +16,8 @@ client = bigquery.Client()
 # does this need to be installed/run separately as a prerequisite for setting up the python environment(?)
 
 #You will need to initialize vertexai with your project_id and location:
-PROJECT_ID = "formula-e-shared24lon-123"
-LOCATION = "us-west1"
+PROJECT_ID = "Formula-E Hackathon-106"
+LOCATION = "europe-west1"
 vertexai.init(project=PROJECT_ID, location=LOCATION)
 
 # Define our query
